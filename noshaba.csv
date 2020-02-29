@@ -1,0 +1,67 @@
+Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Opposition,Ground,Start DateAscending,Match Number,Result
+6,25,14,1,0,42.85,4,bowled,2,v Sri Lanka,Ahmedabad,8-Feb-94,Test # 1247,Won
+34,70,43,7,0,79.06,4,lbw,1,v West Indies,Mumbai,18-Nov-94,Test # 1274,Won
+85,178,130,10,1,65.38,5,caught,3,v West Indies,Mumbai,18-Nov-94,Test # 1274,Won
+4,7,4,1,0,100,4,caught,2,v New Zealand,Bengaluru,18-Oct-95,Test # 1308,Won
+0,3,0,0,0,-,4,not out,4,v New Zealand,Bengaluru,18-Oct-95,Test # 1308,Won
+10,12,11,2,0,90.9,4,caught,2,v Australia,Delhi,10-Oct-96,Test # 1335,Won
+0,6,7,0,0,0,4,bowled,4,v Australia,Delhi,10-Oct-96,Test # 1335,Won
+42,80,64,7,0,65.62,4,caught,1,v South Africa,Ahmedabad,20-Nov-96,Test # 1338,Won
+7,43,33,1,0,21.21,4,caught,3,v South Africa,Ahmedabad,20-Nov-96,Test # 1338,Won
+61,211,173,4,1,35.26,4,caught,1,v South Africa,Kanpur,8-Dec-96,Test # 1344,Won
+36,129,98,4,0,36.73,5,caught,3,v South Africa,Kanpur,8-Dec-96,Test # 1344,Won
+10,25,18,2,0,55.55,4,lbw,2,v Australia,Kolkata,11-Mar-01,Test # 1535,Won
+10,26,23,2,0,43.47,4,caught,3,v Australia,Kolkata,11-Mar-01,Test # 1535,Won
+126,346,230,15,2,54.78,4,caught,2,v Australia,Chennai,18-Mar-01,Test # 1539,Won
+17,27,17,3,0,100,4,caught,4,v Australia,Chennai,18-Mar-01,Test # 1539,Won
+74,179,128,12,0,57.81,4,caught,2,v Zimbabwe,Bulawayo,7-Jun-01,Test # 1548,Won
+12,90,55,1,0,21.81,4,run out,3,v Australia,Nagpur,6-Nov-08,Test # 1892,Won
+37,90,48,4,1,77.08,4,caught,2,v England,Chennai,11-Dec-08,Test # 1898,Won
+103,317,196,9,0,52.55,4,not out,4,v England,Chennai,11-Dec-08,Test # 1898,Won
+160,397,260,26,0,61.53,4,caught,2,v New Zealand,Hamilton,18-Mar-09,Test # 1915,Won
+0,1,1,0,0,0,4,caught,3,v South Africa,Port Elizabeth,26-Dec-92,Test # 1206,Loss
+40,72,55,9,0,72.72,4,caught,2,v West Indies,Mohali,10-Dec-94,Test # 1278,Loss
+169,329,254,26,0,66.53,5,caught,2,v South Africa,Cape Town,2-Jan-97,Test # 1349,Loss
+9,38,28,1,0,32.14,5,caught,4,v South Africa,Cape Town,2-Jan-97,Test # 1349,Loss
+92,222,147,14,1,62.58,4,caught,2,v West Indies,Bridgetown,27-Mar-97,Test # 1363,Loss
+4,25,14,0,0,28.57,4,caught,4,v West Indies,Bridgetown,27-Mar-97,Test # 1363,Loss
+177,298,207,29,3,85.5,4,bowled,1,v Australia,Bengaluru,25-Mar-98,Test # 1413,Loss
+31,75,64,4,0,48.43,4,caught,3,v Australia,Bengaluru,25-Mar-98,Test # 1413,Loss
+34,103,68,3,0,50,5,caught,2,v Zimbabwe,Harare,7-Oct-98,Test # 1425,Loss
+7,27,14,0,0,50,4,caught,4,v Zimbabwe,Harare,7-Oct-98,Test # 1425,Loss
+47,95,72,7,0,65.27,5,caught,1,v New Zealand,Wellington,26-Dec-98,Test # 1435,Loss
+113,200,151,13,2,74.83,5,caught,3,v New Zealand,Wellington,26-Dec-98,Test # 1435,Loss
+0,5,3,0,0,0,4,caught,2,v Pakistan,Chennai,28-Jan-99,Test # 1442,Loss
+136,405,273,18,0,49.81,4,caught,4,v Pakistan,Chennai,28-Jan-99,Test # 1442,Loss
+0,2,1,0,0,0,5,bowled,2,v Pakistan,Kolkata,16-Feb-99,Test # 1444,Loss
+9,18,13,1,0,69.23,4,run out,4,v Pakistan,Kolkata,16-Feb-99,Test # 1444,Loss
+61,181,133,8,0,45.86,5,caught,2,v Australia,Adelaide,10-Dec-99,Test # 1476,Loss
+0,6,5,0,0,0,5,lbw,4,v Australia,Adelaide,10-Dec-99,Test # 1476,Loss
+116,283,191,9,1,60.73,4,caught,2,v Australia,Melbourne,26-Dec-99,Test # 1479,Loss
+52,162,122,4,0,42.62,4,lbw,4,v Australia,Melbourne,26-Dec-99,Test # 1479,Loss
+45,82,53,8,0,84.9,4,lbw,1,v Australia,Sydney,2-Jan-00,Test # 1481,Loss
+4,6,4,1,0,100,4,caught,3,v Australia,Sydney,2-Jan-00,Test # 1481,Loss
+97,208,163,12,2,59.5,4,caught,1,v South Africa,Mumbai,24-Feb-00,Test # 1484,Loss
+8,20,11,2,0,72.72,4,lbw,3,v South Africa,Mumbai,24-Feb-00,Test # 1484,Loss
+21,120,76,3,0,27.63,4,caught,1,v South Africa,Bengaluru,2-Mar-00,Test # 1486,Loss
+20,76,53,2,0,37.73,4,caught,3,v South Africa,Bengaluru,2-Mar-00,Test # 1486,Loss
+76,138,114,13,0,66.66,4,caught,1,v Australia,Mumbai,27-Feb-01,Test # 1531,Loss
+65,153,107,11,0,60.74,5,caught,3,v Australia,Mumbai,27-Feb-01,Test # 1531,Loss
+20,78,46,2,1,43.47,4,bowled,1,v Zimbabwe,Harare,15-Jun-01,Test # 1549,Loss
+69,185,135,9,0,51.11,4,caught,3,v Zimbabwe,Harare,15-Jun-01,Test # 1549,Loss
+155,233,184,23,1,84.23,4,caught,1,v South Africa,Bloemfontein,3-Nov-01,Test # 1564,Loss
+15,60,35,2,0,42.85,4,caught,3,v South Africa,Bloemfontein,3-Nov-01,Test # 1564,Loss
+0,4,2,0,0,0,4,caught,1,v West Indies,Bridgetown,2-May-02,Test # 1601,Loss
+8,32,17,1,0,47.05,4,lbw,3,v West Indies,Bridgetown,2-May-02,Test # 1601,Loss
+41,94,63,7,0,65.07,4,bowled,2,v West Indies,Kingston,18-May-02,Test # 1604,Loss
+86,162,139,13,0,61.87,4,bowled,4,v West Indies,Kingston,18-May-02,Test # 1604,Loss
+16,94,61,2,0,26.22,5,caught,2,v England,Lord's,25-Jul-02,Test # 1610,Loss
+12,51,35,2,0,34.28,4,bowled,4,v England,Lord's,25-Jul-02,Test # 1610,Loss
+8,47,26,2,0,30.76,4,lbw,1,v New Zealand,Wellington,12-Dec-02,Test # 1631,Loss
+25,94,69,3,0,36.23,4,caught,2,v Australia,Adelaide,24-Jan-12,Test # 2031,Loss
+13,46,34,2,0,38.23,4,caught,4,v Australia,Adelaide,24-Jan-12,Test # 2031,Loss
+8,14,12,1,0,66.66,4,bowled,1,v England,Mumbai,23-Nov-12,Test # 2062,Loss
+8,28,19,2,0,42.1,4,lbw,3,v England,Mumbai,23-Nov-12,Test # 2062,Loss
+76,202,155,13,0,49.03,4,caught,1,v England,Kolkata,5-Dec-12,Test # 2065,Loss
+5,17,6,1,0,83.33,4,caught,3,v England,Kolkata,5-Dec-12,Test # 2065,Loss
+,,,,,,,,,,,,,
